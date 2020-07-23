@@ -1,0 +1,155 @@
+SUB CATEGORY CODE,ITEM CODE,DESCRIPTION
+ALCBEVG,ALCBEVG,Alcoholic beverages
+APPAREL,APPAREL,Apparel and services
+APPAREL,BOYS,"Apparel, Boys, 2 to 15"
+APPAREL,FOOTWEAR,Footwear
+APPAREL,GIRLS,"Apparel, Girls, 2 to 15"
+APPAREL,INFANT,"Apparel, Children under 2"
+APPAREL,MENBOYS,"Apparel, Men and boys"
+APPAREL,MENS,"Apparel, Men, 16 and over"
+APPAREL,OTHAPPRL,Other apparel products and services
+APPAREL,WMNSGRLS,"Apparel, Women and girls"
+APPAREL,WOMENS,"Apparel, Women, 16 and over"
+CASHCONT,CASHCONT,Cash contributions
+CHGASLI,CHGASLI,Net change in total assets and liabilities
+CHGASLI,CHGASSET,Net change in total assets
+CHGASLI,CHGLIAB,Net change in total liabilities
+CONSUNIT,CONSUNIT,Number of consumer units (in thousands)
+EDUCATN,EDUCATN,Education
+ENTRTAIN,ENTEROTH,"Entertainment: other supplies, equip., & services"
+ENTRTAIN,ENTRTAIN,Entertainment
+ENTRTAIN,FEESADM,Entertainment: fees and admissions
+ENTRTAIN,PETS,Pets
+ENTRTAIN,PETSPLAY,"Pets, toys, and playground equipment"
+ENTRTAIN,TOYS,"Toys, hobbies, and playground equipment"
+ENTRTAIN,TVAUDIO,Audio and visual equipment and services
+FOODTOTL,80110,Eggs
+FOODTOTL,190904,"Food prep. by consumer unit, out-of-town trips"
+FOODTOTL,ANIMAL,"Meats, poultry, fish, and eggs"
+FOODTOTL,BAKERY,Bakery products
+FOODTOTL,BEEF,Beef
+FOODTOTL,CERBAKRY,Cereals and bakery products
+FOODTOTL,CEREAL,Cereals and cereal products
+FOODTOTL,DAIRY,Dairy products
+FOODTOTL,FATSOILS,Fats and oils
+FOODTOTL,FISHSEA,Fish and seafood
+FOODTOTL,FOODAWAY,Food away from home
+FOODTOTL,FOODHOME,Food at home
+FOODTOTL,FOODTOTL,Food
+FOODTOTL,FRESHVEG,Fresh vegetables
+FOODTOTL,FRSHFRUT,Fresh fruits
+FOODTOTL,FRUITVEG,Fruits and vegetables
+FOODTOTL,MILKCRM,Fresh milk and cream
+FOODTOTL,MISCFOOD,Miscellaneous foods
+FOODTOTL,NALCBEVG,Nonalcoholic beverages
+FOODTOTL,OTHDAIRY,Other dairy products
+FOODTOTL,OTHRFOOD,Other food at home
+FOODTOTL,OTHRMEAT,Other meats
+FOODTOTL,PORK,Pork
+FOODTOTL,POULTRY,Poultry
+FOODTOTL,PROCFRUT,Processed fruits
+FOODTOTL,PROCVEG,Processed vegetables
+FOODTOTL,SWEETS,Sugar and other sweets
+HEALTH,DRUGS,Drugs: Prescription and nonprescription
+HEALTH,HEALTH,Healthcare
+HEALTH,HLTHINSR,Health insurance
+HEALTH,MEDSERVS,Medical services
+HEALTH,MEDSUPPL,Medical supplies
+HOUSING,220211,Property taxes
+HOUSING,270102,Cellular phone service
+HOUSING,ELECTRIC,Electricity
+HOUSING,FLOORCOV,Floor coverings
+HOUSING,FURNITUR,Furniture
+HOUSING,HHFURNSH,Household furnishings and equipment
+HOUSING,HHOPER,Household operations
+HOUSING,HHOTHXPN,Other household expenses
+HOUSING,HHPERSRV,Personal services
+HOUSING,HHTXTILE,Household textiles
+HOUSING,HKPGOTHR,Other household products
+HOUSING,HKPGSUPP,Housekeeping supplies
+HOUSING,HOUSING,Housing
+HOUSING,LAUNDRY,Laundry and cleaning supplies
+HOUSING,MAJAPPL,Major appliances
+HOUSING,MISCHHEQ,Miscellaneous household equipment
+HOUSING,NATRLGAS,Natural gas
+HOUSING,OTHLODGE,Other lodging
+HOUSING,OTHRFUEL,Fuel oil and other fuels
+HOUSING,OWNDWELL,Owned dwellings
+HOUSING,OWNEXPEN,"Maintenance, rep., ins., oth. exp., owned dwelling"
+HOUSING,OWNMORTG,Mortgage interest and charges
+HOUSING,PHONE,Telephone services
+HOUSING,POSTAGE,Postage and stationery
+HOUSING,RESPHONE,"Residential phone service, VOIP, and phone cards"
+HOUSING,RNTDWELL,Rented dwellings
+HOUSING,SHELTER,Shelter
+HOUSING,SMAPPHWR,"Small appliances, misc. housewares"
+HOUSING,UTILS,"Utilities, fuels, and public services"
+HOUSING,WATER,Water and other public services
+INCAFTTX,INCAFTTX,Income after taxes
+INCBEFTX,900000,Wages and salaries
+INCBEFTX,INCBEFTX,Money income before taxes
+INCBEFTX,INDIVRNT,"Interest, dividends, rent income, property income"
+INCBEFTX,OTHBNFTS,"Unemp. & workers' compen., veterans benefits"
+INCBEFTX,OTHREGIN,"Unemp and workrs' comp, vet bnfits, reg contrib"
+INCBEFTX,OTHRINC,Other income
+INCBEFTX,REGCONT,Regular contributions for support
+INCBEFTX,RETIRINC,"Social Security, private & government retirement"
+INCBEFTX,SFEMPINC,Self-employment income
+INCBEFTX,WELFARE,"Public assist., suplmntl. secrty. income, SNAP"
+INSPENSN,INSPENSN,Personal insurance and pensions
+INSPENSN,LIFEINSR,Life and other personal insurance
+INSPENSN,PENSIONS,Pensions and Social Security
+MISC,MISC,Miscellaneous expenditures
+PERSCARE,PERSCARE,Personal care products and services
+PERSTAX,FEDTAXES,Federal income taxes
+PERSTAX,OTHRTAX,Other taxes
+PERSTAX,PERSTAX,Personal taxes
+PERSTAX,STATETAX,State and local income taxes
+READING,READING,Reading
+TITLECU,980010,Number of People in CU
+TITLECU,980020,Age of reference person
+TITLECU,980030,Number of Earners
+TITLECU,980050,Number of Children under 18
+TITLECU,980060,Adults 65 and older
+TITLECU,INCAFTAX,Income after taxes
+TITLECU,INCBFTAX,Income before taxes
+TITLECU,TITLEACU,Average number in consumer unit:
+TITLECU,VEHICLES,Number of Vehicles
+TITLEOFI,800721,Estimated market value of owned home
+TITLEOFI,910050,Est. monthly rental value of owned home
+TITLEOFI,MRTPRINP,"Mortgage principal paid, owned property"
+TITLEOFI,OTHRMONY,Other money receipts
+TITLEPD,980210,Percent Men reference persons
+TITLEPD,980220,Percent Women reference persons
+TITLEPD,980230,Percent Homeowner with mortgage
+TITLEPD,980240,Percent Homeowner without mortgage
+TITLEPD,980260,Percent Renter
+TITLEPD,980270,Percent Black or African American
+TITLEPD,980285,Percent Hispanic or Latino
+TITLEPD,980286,Percent Not Hispanic or Latino
+TITLEPD,980290,Percent Elementary (1-8)
+TITLEPD,980300,Percent High school (9-12)
+TITLEPD,980310,Percent College
+TITLEPD,980320,Percent Never attended school and other
+TITLEPD,980350,At least one vehicle owned or leased
+TITLEPD,HOMEOWN,Percent Homeowner
+TITLEPD,TITLEEDU,Education of reference person:
+TITLEPD,TITLEHOP,Hispanic or Latino origin of reference person:
+TITLEPD,TITLEHT,Housing tenure:
+TITLEPD,TITLERRP,Race of reference person:
+TITLEPD,TITLESRP,Reference person:
+TITLEPD,WHTNDOTH,"Percent White, Asian, and All Other Races"
+TOBACCO,TOBACCO,Tobacco products and smoking supplies
+TOTALEXP,TOTALEXP,Total average annual expenditures
+TRANS,500110,Vehicle insurance
+TRANS,CAREPAIR,Vehicle maintenance and repairs
+TRANS,GASOIL,"Gasoline, other fuels, and motor oil"
+TRANS,NEWCARS,"Vehicle purchases: Cars and trucks, new"
+TRANS,OTHVEHCL,Other vehicle purchases
+TRANS,PUBTRANS,Public and other transportation
+TRANS,TRANS,Transportation
+TRANS,USEDCARS,"Vehicle purchases: Cars and trucks, used"
+TRANS,VEHFINCH,Vehicle finance charges
+TRANS,VEHOTHXP,Other vehicle expenses
+TRANS,VEHPURCH,Vehicle purchases (net outlay)
+TRANS,VEHRNTLC,"Vehicle. rent., leas., licen., oth. charges"
