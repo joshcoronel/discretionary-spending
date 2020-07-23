@@ -1,0 +1,138 @@
+demographics_code,characteristics_code,characteristics_text
+LB01,1,All Consumer Units
+LB01,2,Lowest 20 percent income quintile
+LB01,3,Second 20 percent income quintile
+LB01,4,Third 20 percent income quintile
+LB01,5,Fourth 20 percent income quintile
+LB01,6,Highest 20 percent income quintile
+LB01,A1,Total complete income reporters
+LB01,A2,Incomplete income reports
+LB02,1,All Consumer Units
+LB02,2,"Before tax income of less than $5,000"
+LB02,3,"$5,000 to $9,999 before tax income"
+LB02,4,"$10,000 to $14,999 before tax income"
+LB02,5,"$15,000 to $19,999 before tax income"
+LB02,6,"$20,000 to $29,999 before tax income"
+LB02,7,"$30,000 to $39,999 before tax income"
+LB02,8,"$40,000 to $49,999 before tax income"
+LB02,9,"$50,000 to $69,999 before tax income"
+LB02,10,"Before tax income of $70,000 and over"
+LB02,11,"Before tax income of less than $70,000(from 2003)"
+LB02,12,"$70,000 to $79,999 before tax income(from 2003)"
+LB02,13,"$80,000 to $99,999 before tax income(from 2003)"
+LB02,14,"Before tax income of $100,000 and over(from 2003)"
+LB02,15,"$100,000 to $119,999 before tax income(from 2003)"
+LB02,16,"$120,000 to $149,999 before tax income(from 2003)"
+LB02,17,"Before tax income of $150,000 and over(from 2003)"
+LB02,18,"Less than $15,000"
+LB02,19,"$15,000 to $29,999"
+LB02,20,"$70,000 to $99,999"
+LB02,21,"$100,000 to $149,999"
+LB02,22,"$150,000 to $199,999"
+LB02,23,"$200,000 and more"
+LB02,A1,"Before tax income of $50,000 and over"
+LB02,A2,Total complete income reporters
+LB04,1,All Consumer Units
+LB04,2,Reference person under age 25
+LB04,3,Reference person between age 25 and 34
+LB04,4,Reference person between age 35 and 44
+LB04,5,Reference person between age 45 and 54
+LB04,6,Reference person between age 55 and 64
+LB04,7,Reference person over age 65
+LB04,8,Reference person between age 65 and 74
+LB04,9,Reference person over the age of 75
+LB05,1,All Consumer Units
+LB05,2,One person consumer unit
+LB05,3,Two or more people in consumer unit
+LB05,4,Two people in consumer unit
+LB05,5,Three people in consumer unit
+LB05,6,Four people in consumer unit
+LB05,7,Five or more people in consumer unit
+LB05,A1,Five people in consumer unit
+LB05,A2,Six or more people in consumer unit
+LB06,1,All Consumer Units
+LB06,2,Total married couple consumer units
+LB06,3,Married couple only consumer units
+LB06,4,Total married couple with children cons. units
+LB06,5,"Married couple w/ children, oldest child under 6"
+LB06,6,"Married couple w/ children, oldest child 6 to 17"
+LB06,7,"Married couple w/ children, old. child 18 or over"
+LB06,8,Other married couple consumer units
+LB06,9,"One parent, at least one child under 18"
+LB06,10,Single person and other consumer units
+LB07,1,All Consumer Units
+LB07,2,"Single Consumers, no earner"
+LB07,3,"Single Consumers, one earner"
+LB07,4,"Consumer units of two or more people, no earners"
+LB07,5,"CUs of two or more people, one earner"
+LB07,6,"CUs of two or more people, two earners"
+LB07,7,"CUs of two or more people, three or more earners"
+LB08,1,All Consumer Units
+LB08,2,Housing tenure: home owner
+LB08,3,Housing tenure: homeowner with mortgage(from 2003)
+LB08,4,Housing tenure: homeowner w/o mortgage(from 2003)
+LB08,5,Housing tenure: renter
+LB08,6,Type of area: urban
+LB08,7,Type of area: urban: central city(from 2003)
+LB08,8,Type of area: urban: other urban(from 2003)
+LB08,9,Type of area: rural
+LB09,1,All Consumer Units
+LB09,2,"Race of ref. person: White, Asian, and All Others"
+LB09,3,Race of rf. pers.: White and All Others(from 2003)
+LB09,4,Race of reference person: Asian(from 2003)
+LB09,5,Race of ref. person: Black or African American
+LB10,1,All Consumer Units
+LB10,2,Origin of reference person: Hispanic or Latino
+LB10,3,Origin of reference person: Not Hispanic or Latino
+LB10,4,Not Hispanic or Latino: White and All Other Races
+LB10,5,Not Hispanic or Latino: Black or African-American
+LB11,1,All Consumer Units
+LB11,2,Region of residence: northeast
+LB11,3,Region of residence: midwest
+LB11,4,Region of residence: south
+LB11,5,Region of residence: west
+LB12,1,All Consumer Units
+LB12,2,Self-employed workers
+LB12,3,Total wage and salary earners
+LB12,4,Wage & salary earners: managers and professionals
+LB12,5,"Wage & salary: tech., sales, and clerical workers"
+LB12,6,Wage & salary earners: service workers
+LB12,7,Wage & salary: construction workers & mechanics
+LB12,8,"Wage & salary: Operators, fabricators & laborers"
+LB12,9,Retired
+LB12,10,"Occupation: all other, including not reporting"
+LB13,1,All Consumer Units
+LB13,2,"Total, less than college graduate"
+LB13,3,Less than high school graduate
+LB13,4,High school graduate
+LB13,5,High school graduate with some college
+LB13,6,Associate degree
+LB13,7,"Total, college graduate"
+LB13,8,Bachelor's degree
+LB13,9,"Master's, professional, doctorate"
+LB14,1,All Consumer Units
+LB14,2,Less than college graduate: Total
+LB14,3,Less than college graduate: Less than high school graduate
+LB14,4,Less than college graduate: High school graduate
+LB14,5,Less than college graduate: High schoo graduate with some college
+LB14,6,Less than college graduate: Associate's degree
+LB14,7,College graduate: Total
+LB14,8,College graduate: Bachelor's degree
+LB14,9,"College graduate: Master's, professional, doctoral degree"
+LB15,1,All consumer units
+LB15,2,Lowest 10 percent
+LB15,3,Second 10 percent
+LB15,4,Third 10 percent
+LB15,5,Fourth 10 percent
+LB15,6,Fifth 10 percent
+LB15,7,Sixth 10 percent
+LB15,8,Seventh 10 percent
+LB15,9,Eighth 10 percent
+LB15,10,Ninth 10 percent
+LB15,11,Highest 10 percent
+LB16,1,All Consumer Units
+LB16,2,Birth year of 1981 or later
+LB16,3,Birth year from 1965 to 1980
+LB16,4,Birth year from 1946 to 1964
+LB16,5,Birth year from 1928 to 1945
+LB16,6,Birth year of 1927 or earlier
